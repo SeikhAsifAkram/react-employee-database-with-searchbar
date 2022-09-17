@@ -1,0 +1,20 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Combo&display=swap'); */
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-image: url(https://images.unsplash.com/photo-1657405826726-ac52271d3bb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1567&q=80);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  text-align: center;
+  margin-bottom: 80px;
+}
+.app-title{
+  margin-top: 55px;
+  margin-bottom: 40px;
+  font-size: 66px;
+  font-style: bold;
+  color:#d8d3d3;
+}
